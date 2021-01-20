@@ -16,7 +16,7 @@
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
-    "gsap": "^3.5.1",
+    "gsap": "^3.6.0",
     "mongoose": "^5.7.9",
     "nodemailer": "^6.3.1"
   }
